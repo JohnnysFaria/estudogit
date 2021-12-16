@@ -1,0 +1,11 @@
+git init = criar arquivo git
+git add . = add todos os arquivos
+git pull = trazer todos os arquivos que foram modificados na master (usado para trabalhos em equipe)
+.gitignore = utilizado para não subir arquivos desnecessarios ou importantes que não deseja ser exposto
+git commit = para deixar um arquivo para para ser "pushado"
+git push = para "pushar" arquivos "comitados" para um repositorio
+git status = verificar como estão os arquivos de git
+git flow = modo de usado em empresas para manter um fluxos de desenvolvedores em projetos
+git clone = clonar um arquivo existente em uma plataforma (gitHub, gitLab ...gitOutros)
+git fork = parecido com acima, dar uma "garfada" em um arquivo ja existente e sugerir alterações
+importante manter sempre commitados para não correr o risco de perder progresso
